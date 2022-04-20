@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-nest-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-nest-auth-svc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-nest-order-svc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-nest-product-svc" vcs="Git" />
+  </component>
+</project>
